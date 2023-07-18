@@ -1,6 +1,6 @@
-[![MasterHead](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif){: style="display: block; margin: 0 auto;"}](https://1.bp.blogspot.com/-7A4WynwLsM0/Xq_s50uK9PI/AAAAAAAABsM/y-24o0u4_X8c17r1u0k4-8-e0X-b64f7wCLcBGAs/s1600/MasterHead.png)
-<h1 style="text-align: center;">Hi 👋, I'm Turjo Sarker</h1>
-<h3 align="center">I am a passionate computer science student who is highly intrigued by technology. I like to dive into the core fundamentals of how things work, which gives me a better understanding of the entire process. My goal is to find an opportunity in a place where technology is the heart of everything, and I can put my passion to good use and further develop my skills in the process. I have hands-on experience in computer hardware, web development, and cybersecurity. I want to explore and learn more about technology by working alongside industry experts, expanding my knowledge and skills in this vast field of innovation.</h3>
+[![MasterHead](https://ardas-it.com/uploads/images/blogs/giph.gif)]()
+<h1 >Hi 👋, I'm Turjo Sarker</h1>
+<h3>I am a passionate computer science student who is highly intrigued by technology. I like to dive into the core fundamentals of how things work, which gives me a better understanding of the entire process. My goal is to find an opportunity in a place where technology is the heart of everything, and I can put my passion to good use and further develop my skills in the process. I have hands-on experience in computer hardware, web development, and cybersecurity. I want to explore and learn more about technology by working alongside industry experts, expanding my knowledge and skills in this vast field of innovation.</h3>
 
 - 🔭 I’m currently working on [Restaurant Order System](Click This Link)
 
