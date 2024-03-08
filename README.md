@@ -1,16 +1,26 @@
 [![MasterHead](https://ardas-it.com/uploads/images/blogs/giph.gif)]()
 <h1 >Hi 👋, I'm Turjo Sarker</h1>
-<h3>I am a passionate computer science student who is highly intrigued by technology. I like to dive into the core fundamentals of how things work, which gives me a better understanding of the entire process. My goal is to find an opportunity in a place where technology is the heart of everything, and I can put my passion to good use and further develop my skills in the process. I have hands-on experience in computer hardware, web development, and cybersecurity. I want to explore and learn more about technology by working alongside industry experts, expanding my knowledge and skills in this vast field of innovation.</h3>
+<h4>My journey into the world of computers began with a childhood fascination sparked by playing GTA Vice City at my brother's house. I was in grade 2, captivated by the game's immersive experience, but my excitement was dampened by the realization that my own computer lacked the necessary specs to run it.
 
-- 🔭 I’m currently working on [Restaurant Order System](Click This Link)
+
+With only 64MB of RAM and an Intel Pentium II processor, my system fell short. However, rather than simply accepting defeat, I became determined to understand why. This marked the beginning of my exploration into the technical intricacies of computers and software.
+
+
+Throughout my three years studying "Bachelor of Computer Science (majoring in Cyber Security)" at the University of Adelaide, my passion for understanding the inner workings of technology has only deepened. Each class and project has fueled my curiosity, driving me to learn more about programming languages, algorithms, software development, and security vulnerabilities.
+
+
+Now, armed with the knowledge and skills acquired during my studies, I'm not only able to diagnose software issues but also to create my own programs tailored to my needs while maintaining proper security standards. My journey from gaming enthusiast to budding computer scientist has been one of curiosity, perseverance, and continuous learning.
+
+
+P.S. I recently finished GTA Vice City for the 2nd time on my Android. It remains one of the best in the GTA lineup.</h4>
+
+- 🔭 I’m currently working on [Restaurant Order System]
 
 - 🌱 I’m currently learning **how to secure a code to minimize vulnerabilities and follow all the good practices. I am also enhancing my knowledge on networking and cybersecurity.**
 
-- 📫 How to reach me **turjosarker09@gmail.com**
+- 📄 Know about my experiences by clicking on my resume link on the left tab.
 
-- 📄 Know about my experiences [Resume Link](Resume Link)
-
-- ⚡ Fun fact **I spent a quarter of my life playing video games and watching videos of new innovations of tech..**
+- ⚡ Fun fact **I spent a quarter of my life playing video games and watching videos of new innovations of tech...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
