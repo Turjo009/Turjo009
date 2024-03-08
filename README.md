@@ -1,8 +1,7 @@
 [![MasterHead](https://ardas-it.com/uploads/images/blogs/giph.gif)]()
 <h1 >Hi 👋, I'm Turjo Sarker</h1>
 <h4>My journey into the world of computers began with a childhood fascination sparked by playing GTA Vice City at my brother's house. I was in grade 2, captivated by the game's immersive experience, but my excitement was dampened by the realization that my own computer lacked the necessary specs to run it.
-
-
+  
 With only 64MB of RAM and an Intel Pentium II processor, my system fell short. However, rather than simply accepting defeat, I became determined to understand why. This marked the beginning of my exploration into the technical intricacies of computers and software.
 
 
