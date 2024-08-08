@@ -13,11 +13,11 @@ Now, armed with the knowledge and skills acquired during my studies, I'm not onl
 
 P.S. I recently finished GTA Vice City for the 2nd time on my Android. It remains one of the best in the GTA lineup.</h4>
 
-- 🔭 I’m currently working on [Restaurant Order System]
+- 🔭 I’m currently working on Smart Surveillance with ANPR.
 
 - 🌱 I’m currently learning **how to secure a code to minimize vulnerabilities and follow all the good practices. I am also enhancing my knowledge on networking and cybersecurity.**
 
-- 📄 Know about my experiences by clicking on my resume link on the left tab.
+- 📄 Know about my experiences by clicking on my LINKEDIN link on the left tab.
 
 - ⚡ Fun fact **I spent a quarter of my life playing video games and watching videos of new innovations of tech...**
 
